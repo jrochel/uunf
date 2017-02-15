@@ -1,0 +1,33 @@
+# uunf
+
+bin: [
+  "_build/test/unftrip.native" {"unftrip"} ]
+doc: [
+  "_build/CHANGES.md" {"CHANGES.md"}
+  "_build/DEVEL.md" {"DEVEL.md"}
+  "_build/LICENSE.md" {"LICENSE.md"}
+  "_build/README.md" {"README.md"}
+  "_build/test/examples.ml" {"examples.ml"} ]
+lib: [
+  "_build/opam" {"opam"}
+  "_build/pkg/META" {"META"}
+  "_build/src/uunf.a" {"uunf.a"}
+  "_build/src/uunf.cma" {"uunf.cma"}
+  "_build/src/uunf.cmi" {"uunf.cmi"}
+  "?_build/src/uunf.cmti" {"uunf.cmti"}
+  "_build/src/uunf.cmx" {"uunf.cmx"}
+  "_build/src/uunf.cmxa" {"uunf.cmxa"}
+  "_build/src/uunf.cmxs" {"uunf.cmxs"}
+  "_build/src/uunf.mli" {"uunf.mli"}
+  "_build/src/uunf_data.cmx" {"uunf_data.cmx"}
+  "_build/src/uunf_string.a" {"uunf_string.a"}
+  "_build/src/uunf_string.cma" {"uunf_string.cma"}
+  "_build/src/uunf_string.cmi" {"uunf_string.cmi"}
+  "?_build/src/uunf_string.cmti" {"uunf_string.cmti"}
+  "_build/src/uunf_string.cmx" {"uunf_string.cmx"}
+  "_build/src/uunf_string.cmxa" {"uunf_string.cmxa"}
+  "_build/src/uunf_string.cmxs" {"uunf_string.cmxs"}
+  "_build/src/uunf_string.mli" {"uunf_string.mli"}
+  "_build/src/uunf_tmap.cmx" {"uunf_tmap.cmx"}
+  "_build/src/uunf_tmapbool.cmx" {"uunf_tmapbool.cmx"}
+  "_build/src/uunf_tmapbyte.cmx" {"uunf_tmapbyte.cmx"} ]
